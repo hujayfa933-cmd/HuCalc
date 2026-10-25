@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HuCalc</string>
+    <string name="mode_general">সাধারণ</string>
+    <string name="mode_scientific">বৈজ্ঞানিক</string>
+    <string name="history_title">গণনার ইতিহাস</string>
+    <string name="about_title">সম্পর্কে</string>
+    <string name="about_subtitle">সাধারণ ও বৈজ্ঞানিক ক্যালকুলেটর</string>
+    <string name="about_description">দৈনন্দিন গণিত ও উন্নত বৈজ্ঞানিক হিসাব-নিকাশের জন্য একটি দ্রুত, নির্ভুল এবং অফলাইন ক্যালকুলেটর।</string>
+    <string name="about_developer">Made by Hujayfa</string>
+    <string name="clear_history">ইতিহাস মুছুন</string>
+    <string name="history_empty">কোন গণনার ইতিহাস নেই</string>
+    <string name="copied_to_clipboard">ক্লিপবোর্ডে কপি করা হয়েছে</string>
+    <string name="angle_deg">DEG</string>
+    <string name="angle_rad">RAD</string>
+    <string name="app_version">1.0.6</string>
+</resources>

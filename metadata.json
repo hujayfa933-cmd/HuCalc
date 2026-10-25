@@ -1,0 +1,6 @@
+{
+  "name": "HuCalc",
+  "description": "HuCalc - A powerful General & Scientific Calculator with fx-991ES PLUS functions, Gemini Math Assistant for step-by-step solutions, calculation history, and tactile keyboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
